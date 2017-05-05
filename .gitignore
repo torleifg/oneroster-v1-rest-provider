@@ -1,0 +1,11 @@
+# STS (Spring Tool Suite)
+.settings/
+.project 
+.classpath
+.springBeans
+
+# Maven
+target/
+
+# Mac
+.DS_Store
